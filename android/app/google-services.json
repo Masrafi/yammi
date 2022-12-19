@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843358826643",
+    "project_id": "yammi-new",
+    "storage_bucket": "yammi-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843358826643:android:bc0f4df623b585edb11d66",
+        "android_client_info": {
+          "package_name": "com.masrafi.yammi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843358826643-nlgb2t9fs8ihfr42ujtk3mi7cpslos21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD51-IacrJ5SCwcSJ2Ruiz5XKK2KoKR0bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843358826643-nlgb2t9fs8ihfr42ujtk3mi7cpslos21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
